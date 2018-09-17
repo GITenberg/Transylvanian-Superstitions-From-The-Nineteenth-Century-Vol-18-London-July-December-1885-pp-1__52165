@@ -1,0 +1,28 @@
+_repo: Transylvanian-Superstitions-From-The-Nineteenth-Century-Vol-18-London-July-December-1885-pp-1__52165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gerard, E. (Emily)
+    aliases:
+    - Laszowska, Jane Emily Gerard de
+    - Gerard, Emily
+    birthdate: 1849
+    deathdate: 1905
+    gutenberg_agent_id: '46704'
+    url: http://www.gutenberg.org/2009/agents/46704
+description: ''
+gutenberg_issued: '2016-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Superstition'
+- GITenberg
+title: "Transylvanian Superstitions\r\nFrom: The Nineteenth Century (Vol. 18), London,\
+  \ July-December 1885, pp. 130-150"
+url: http://www.gutenberg.org/ebooks/52165

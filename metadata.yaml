@@ -1,5 +1,8 @@
 _repo: Transylvanian-Superstitions-From-The-Nineteenth-Century-Vol-18-London-July-December-1885-pp-1__52165
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52165-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Gerard, E. (Emily)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46704'
     url: http://www.gutenberg.org/2009/agents/46704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52165#Transylvanian-Superstitions-From-The-Nineteenth-Century-Vol-18-London-July-December-1885-pp-1_
 gutenberg_issued: '2016-05-26'
 gutenberg_type: Text
 identifiers:
